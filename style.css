@@ -1,0 +1,27 @@
+body {
+    font-family: "Verdana";
+    padding: 0px 20px 0px 20px;
+}
+
+h1 {
+    color: #333333;
+    font-size: 24px;
+}
+
+h2 {
+    color: #333333;
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    max-width: 1000px;
+}
+
+#beforeName {
+    display: inline;
+}
+
+#name {
+    display: inline;
+}
