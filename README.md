@@ -12,3 +12,6 @@ Door commit te doen, bepaal je dat de bestanden die je gestaged hebt klaar zijn 
 
 ## Push
 Door push te doen, bepaal je dat de bestanden naar Git gestuurd worden. Je kan meerdere commits maken zonder te pushen, maar alles wat je dan doet staat lokaal op jouw computer opgeslagen. Pas als je pusht, komt het op Git terecht.
+
+## Titel
+Change!
